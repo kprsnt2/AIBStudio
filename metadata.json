@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Generator",
+  "description": "Automate your personal blog with AI. Push a rough draft, generate a polished post, and deploy automatically.",
+  "requestFramePermissions": []
+}
